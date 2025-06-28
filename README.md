@@ -1,6 +1,9 @@
 Park Project – Privacy Policy
 Effective Date: 06/28/2025
 
+Advertising ID
+We use Google AdMob to display ads within our app. AdMob may collect and use your device’s Advertising ID to provide personalized advertising experiences. You can reset your Advertising ID or opt out of personalized ads through your device settings.
+
 1. Introduction
 Welcome to Park Project (“we”, “our”, “us”). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
