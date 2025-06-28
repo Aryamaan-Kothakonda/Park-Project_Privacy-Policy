@@ -9,6 +9,9 @@ Account Information
 
 When you register, we collect your username, email address, and password.
 
+Camera and Device access permission
+To take photos or to upload pictures of available parking spots. Images will be shared with other users within the app, will not sold to third party.
+
 Location Data
 
 We collect your device’s location to help you find nearby parking spots in real time.
